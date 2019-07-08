@@ -293,6 +293,8 @@ position: fixed;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+
+
 }
 
 .container2 .box {
